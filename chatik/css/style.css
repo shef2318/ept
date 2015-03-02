@@ -1,0 +1,84 @@
+.container {
+    padding: 5px;
+}
+
+[class*="col-"] {
+    padding: 5px;
+    padding-top: 10px;
+}
+
+.basic {
+    padding: 10px;
+    background-color: #D4E3FC;
+    border: 1px solid rgba(86,61,124,.2);
+}
+
+.basic2 {
+    padding: 10px;
+    background-color: #D4E3FC;
+    border: 0px transparent #D4E3FC;
+}
+
+.basic3 {
+    padding: 10px;
+    background-color: #FFF;
+    border: 0px transparent #FFF;
+}
+
+.chatBasic {
+    height: 450px;
+}
+
+.avatar {
+    height: 70px;
+    width:  70px;
+    margin-left: 0px;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+
+.avatar2 {
+    height: 50px;
+    width:  50px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.inputField {
+    height: 20px;
+    width: 70px;
+
+}
+
+
+.message {
+    padding: 10px;
+    width: 350px;
+    height: 80px;
+    border: 1px solid ddd;
+    margin: 5px;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+.myMessage {
+    background-color: #FFD783;
+}
+
+.opMessage {
+    background-color: #FF6624;
+}
+
+
+.pattern {
+    padding: 5px 5px;
+    font-size: 15px;
+    line-height: normal;
+}
+
+.icon-padding {
+    padding-left: 5px;
+}
+
+
+
